@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+        "current-time": {
+            "command": "wps-mcp-server",
+            "args": [],
+            "env": {}
+        }
+    }
+}
