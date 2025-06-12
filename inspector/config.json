@@ -4,6 +4,11 @@
             "command": "wps-mcp-server",
             "args": [],
             "env": {}
+        },
+        "write_values_to_sheet": {
+            "command": "wps-mcp-server",
+            "args": [],
+            "env": {}
         }
     }
 }
